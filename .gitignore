@@ -1,6 +1,6 @@
 *.aux
 *.bbl
-*,blg
+*.blg
 *.log
 *.out
 *.gz
