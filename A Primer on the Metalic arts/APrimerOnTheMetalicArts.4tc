@@ -1,0 +1,13 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-0}{}{\numberline {I}\textbf  {Introduction}}}{3}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-0}{}{\numberline {II}\textbf  {The very basics}}}{3}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-0}{}{\numberline {III}\textbf  {Classifications of Users}}}{5}\relax 
+\doTocEntry\toclot{I}{\csname a:TocLink\endcsname{1}{x1-5r1}{}{\ignorespaces \textbf  {Table of Metals}}}{table}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {IV}\textbf  {The Base Metals}}}{11}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {V}\textbf  {Notable other metals}}}{26}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {VI}\textbf  {God Metals}}}{26}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {VII}\textbf  {Hemalurgic Constructs}}}{31}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {VIII}\textbf  {Other uses of Hemalurgy}}}{32}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {IX}\textbf  {Terminology}}}{33}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{References}}{34}\relax 
+\doTocEntry\toclot{II}{\csname a:TocLink\endcsname{1}{x1-372r2}{}{\ignorespaces \textbf  {Twinborn Names}}}{table}\relax 

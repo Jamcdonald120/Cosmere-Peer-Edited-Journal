@@ -1,0 +1,99 @@
+tlm changes
+
+Allomancy 
+Concentrated Dor (dorium?) anyfuel investiture replacer \cite{TLM-CH40}\cite{TLM-CH64}
+
+Feruchemy
+there is a painmind (possibly any fe can make one)
+(add note to copper, gold, and tin)\cite{TLM-CH34}
+
+unsealed metalmind
+everything from ss on usm is unreliable\cite{TLM-CH9}
+
+Preservation 
+Preservation hemalurgy hear WRONG, preservation can hear any scadrian all the time
+
+Hemalurgy
+compoundinf via hemalurgy is diffixult due to identity contanimation (likely requires unsealed metalminds)\cite{TLM-CH28}
+Hemalurgic spikes can be partialy charged and consume multiple people\cite{TLM-CH47}
+Hemalurgic spikes can contain unkeyed potential \cite{TLM-CH47}
+There is a way to key this to an allomantic power (possibly soul stamping)\cite{TLM-CH47}\cite{TES} (The Emperors Soul)
+Hemalurgy nerfs\cite{ARS-TLM}
+Hemalurgy Cordination\cite{TLM-CH15}
+
+tin note feruchemy \cite{TLM-CH34}
+
+seeker
+[TLM-ch35] Seeker detected Feruchemy\cite{TLM-CH25}
+
+copper note feruchemy\cite{TLM-CH34}
+
+gold note eferucmey\cite{TLM-CH34}
+
+Aluminum/Cadmium 
+slow leach (find wob)\cite{slow-leech}https://wob.coppermind.net/events/101-conquest-46/#e881
+
+Duralimin
+There is a limit to how fast Durlimin can boost, but it is MASSIVE (Wayne managed several seconds of duralimin speed with BAGS of Bendalloy)
+
+Cadmium
+bendlaloy small, but touchign it counts\cite{TLM-CH49}
+time dilation relativity bypass confirm\cite{TLM-CH71}
+
+bendalloy
+wain savant? \cite{TLM-CH8}\cite{TLM-CH49}\cite{TLM-CH71}
+bubble scuplting\cite{TLM-CH49}
+F-Be does not go to bathroom when accessing stores\cite{bathroom} https://wob.coppermind.net/events/508-dragonsteel-2022/
+
+Steel Inquisitor
+Iron eyes see without iron, spirit sight, shows atoms and compositions
+
+new construct (metal mutant) Chimera with 2 spikes\cite{TLM-CH53}\cite{TLM-CH56}
+
+Add Kelsier \cite{TFE-CH34}
+add Kelsier as psudo construct, a soul pinned to bones by a single spikes, allowing him to act in a limited way
+
+
+God Metals in general
+Difficult to melt God metals\cite{TLM-CH13}
+God metals have a unique spectroscopic frequency.  uniform emmision on all frequencies (white) except for an impulse peak on the shard's color\cite{TLM-CH13}
+Enough investiture in 1 place causes perpendicularity\cite{TLM-CH15}
+
+Harmonium 
+Harmonium+trellium=nuclear reaction mass->investiture & Atium/Lerasium (Sazid likely lied to Kelsier)
+\cite{TLM-CH71}
+\cite{TLM-CH17}
+\cite{TLM-CH16}
+\cite{TLM-3WAD}
+
+Trellium radio \cite{TLM-CH19}
+Trellium \cite{TLM-CH19}
+Trellium hardness 9-10
+Trellium brittle
+[Trellium bavadinium merge][leave possiblity for other bavadinium]\cite{TLM-CH18}
+Trellium is repelled by allomancy & harmonium [generalize? conflict?]
+Trellium spike helps prevent Harmony controll
+Trellium pain note\cite{TLM-CH34}
+\cite{TLM-CH4}\cite{TLM-CH65}
+(dorium?) anyfuel investiture replacer\cite{TLM-CH40}\cite{TLM-CH64}
+\cite{SH-PT3-CH3}
+
+
+Table of Names
+zinc+full=mentat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

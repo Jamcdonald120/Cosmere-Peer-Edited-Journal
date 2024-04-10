@@ -17,6 +17,7 @@ IEEE format with exceptions
 		Be mindfull of changing facts
 		If citing an in book book, cite both the real world book, and the in world book seperately
 		include chapter number or page number when possible.
+		Alternativly, cite the in world book with the sanderson novel it appears in as the publisher.
 		
 		When citing a WOB: cite copermind wob.coppermind.net as website, use Word of Brandon as website title, coppermind as publisher, include URL, include question number in title; Author Brandon sanderson (naturally)
 		
